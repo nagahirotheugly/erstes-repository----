@@ -1,0 +1,469 @@
+Caesar 178
+Do Daodakowski
+HeavyArms
+Flo Bogenmayr
+Mark-Uwe-Kling
+
+
+
+Ceasar178
+vor 1 Monat
+Um Marc-Uwe Kling zu zitieren:
+„Ja, wir könnten jetzt was gegen den Klimawandel tun, aber wenn wir dann in 50 Jahren feststellen würden, 
+dass sich alle Wissenschaftler doch vertan haben und es gar keine Klimaerwärmung gibt, dann hätten wir 
+völlig ohne Grund dafür gesorgt, dass man selbst in den Städten die Luft wieder atmen kann, dass die 
+Flüsse nicht mehr giftig sind, dass Autos weder Krach machen noch stinken und dass wir nicht mehr 
+abhängig sind von Diktatoren und deren Ölvorkommen. 
+Da würden wir uns schon ärgern.“
+357
+Do Dodakowski
+vor 1 Monat
+Wie können wir nur.
+3
+HeavyArms
+vor 1 Monat
+Tja und denk dan Mal daran wie der Deutsche erst reagiert. 
+"So eine Scheisse... Alles umsonst!"*grummel*.... 
+Vielleicht hat Einstein Recht. "
+
+„Ich bin mir nicht sicher, mit welchen Waffen der dritte Weltkrieg ausgetragen wird, 
+aber im vierten Weltkrieg werden sie mit Stöcken und Steinen kämpfen." 
+Dabei find ich eigentlich das wir technisch weit genug sind um an anständiges sauberes Leben zu führen. 
+Ein Leben in dem der Krieg nicht mit Waffen sondern mit Feder und Papier bzw Times New Roman und Microsoft Word geführt wird XD... 
+
+Anscheinend hat der Teil der Menschen, die an der Spitze sind einfach noch nicht genug Krieg gespielt. 
+Dabei gibt es doch genug Menschen die sicher nicht so rein diktarorisch, militaristisch, profitgierig 
+und zerstörrerisch denkt.  
+
+Man sollte wirklich Lehrer besser ausbilden mit genug Lebenserfahrung.... 
+und am besten noch Philosophie in ale Schulen bringen... 
+Kontroverse Themen mal in den Schulen vernünftig diskutieren und dann 
+die Schüler richtig nachdenken lassen anstatt diesen schrecklichen Behaivoristischen Lernstil. 
+Dann könnte die Welt besser aussehen... 
+
+
+Irgendwie jedenfalls.
+11
+Flo Bogenmayr
+vor 4 Wochen
+stimmt. Gleichzeitig hätten wir Drittweltländer vollständig ihrer Ressourcen beraubt 
+um Solarpanele und Windkraftwerke herzustellen um diese flächendeckend dort zu 
+installieren wo früher mal Wald war. 
+
+Die Winter werden kalt und dunkel denn die regelmäßigen, und andauernden Stromausfälle 
+bedingt durch die Unzuverlässigkeit und Ineffizienz dieser "nachhaltigen" Energiequellen 
+haben den Fortschritt ins vorindustrielle Zeitalter zurückgeworfen und Hunger, Krankheiten 
+und große Armut sind der neue Alltag. 
+
+
+Entwicklungsländer/kontinente wie Afrika oder Indien werden von der westlichen Welt ständig überwacht 
+und sind durch das Verbot von fossilen Energiequellen und fehlenden Ressourcen und Geld für Solarpanele 
+zurück in die Steinzeit geworfen worden. 
+
+Global ersteckt sich ein überwachungssystem, dass sich tief in unser aller leben eingeschlichen hat 
+um jeden erdenklichen CO2 Ausstoß unter strafe zu unterbinden und auch sämtliche andere Aktivitäten, 
+die, laut Weltregierung, eine Gefahr für den Planeten darstellen zu unterbinden. 
+
+Wer bestimmt was Gefahr ist und was nicht? 
+Eine kleine Elite Superreicher die durch die Herstellung und den Zwangsverkauf von 
+"nachhaltiger Energiequellen" sämtliche Regierungen der Welt geiselten und den 
+Fortschritt mit aller kraft verhindern. 
+
+Gleichzeitig erwärmt sich die Erde weiter und wir bemerken, dass es eventuell doch noch 
+andere Faktoren als co2 in der Erdatmosphäre gibt und wir 2020 noch nicht alles verstanden 
+haben was es über das Klima zu lernen gibt...
+Ich beziehe mich hier auf die Forschungen von 
+
+
+Hans Werner Sinn (Das grüne paradox) und die von 
+Randel Carlson zusammengestellten Forschungsergebnisse 
+
+
+bezüglich Co2 und dem Klimawandel im allgemeinen 
+https://sacredgeometryinternational.com/redemption-beast-carbon-cycle-demonization-co2/ 
+https://www.annualreviews.org/doi/abs/10.1146/annurev.energy.23.1.207
+1
+
+xxxxxxxxxxxxxxxxxxxxxxx
+
+###Windows töten aber langsam 
+
+Windows 7: Diese Systemdienste sollten Sie abschalten
+Dienst
+Empfehlung
+Beschreibung
+Adaptive Helligkeit
+Deaktiviert
+Unterstützt die Anpassung der Display-Helligkeit
+Bluetooth-Unterstützungsdienst
+Deaktiviert
+Erkennung und Zuordnung von Bluetooth-Geräten
+Diagnoserichtliniendienst
+Manuell
+Problemerkennung und Problembehandlung
+DNS-Client
+Manuell
+Zuordnung von Domain-Namen zu IP-Adressen
+Erkennung interaktiver Dienste
+Deaktiviert
+Benutzerbenachrichtigung von Benutzereingaben
+Fax
+Deaktiviert
+Senden und Empfangen von Faxen
+Funktionssuche-Ressourcenveröffentlichung
+Manuell
+Veröffentlicht Rechnerressourcen im Netzwerk
+Geschützter Speicher
+Manuell
+Bietet geschützten Speicher, etwa für Kennwörter
+Intelligenter Hintergrundübertragungsdienst
+Manuell
+Überträgt Daten im Hintergrund
+IP-Hilfsdienst
+Deaktiviert
+Netzwerkprotokoll IPv6 über IPv4
+Konfiguration für Remotedesktops
+Deaktiviert
+Konfiguration entfernter Rechner
+Kryptografiedienste
+Manuell
+Bestätigt Signaturen von Windows-Dateien
+KtmRm für Distributed Transaction Coordinator
+Deaktiviert
+Unterstützt den Kerneltransaktionsmanager
+Microsoft iSCSI-Initiator-Dienst
+Deaktiviert
+Verwaltet SCSI-Sitzungen per Internet
+Multimediaklassenplaner
+Manuell
+Prioritätseinstufung von Multimediaaufgaben
+NAP-Agent
+Deaktiviert
+Aktiviert Network Access Protection
+Parental Controls
+Deaktiviert
+Jugendschutzfunktionen
+Peer Name Resolution-Protokoll
+Deaktiviert
+Aktiviert Namensauflösung über das Internet
+Peernetzwerk-Gruppenzuordnung
+Deaktiviert
+Aktiviert Kommunikation zwischen Rechnern
+Peernetzwerkidentitäts-Manager
+Deaktiviert
+Identitätsdienste für das Protokoll PNRP
+PnP-X-IP-Busenumerator
+Deaktiviert
+Verwaltet virtuellen Netzwerkbus, der nach Geräten im Netzwerk sucht
+PNRP-Computernamenveröffentlichungsdienst
+Deaktiviert
+Veröffentlicht Computernamen im Netzwerk
+Remoteregistrierung
+Deaktiviert
+Zugriff anderer PCs auf die lokale Windows-Registry
+Richtlinie zum Entfernen der Smartcard
+Deaktiviert
+Sperrt den Desktop nach Abstecken einer Smartcard
+Server
+Manuell
+Datei- und Druckerfreigabe im Netzwerk
+Shellhardwareerkennung
+Manuell
+Autoplay-Funktion
+Smartcard
+Deaktiviert
+Verwaltet den Zugriff auf Smartcards
+SNMP-Trap
+Deaktiviert
+Empfängt Nachrichten von SNMP-Geräten
+Tablet PC-Eingabedienst
+Deaktiviert
+Stift- und Freihandeingabe auf Tablet-PCs
+TCP/IP-NetBIOS-Hilfsdienst
+Manuell
+NetBIOS-Namensauflösung im Netzwerk
+Telefonie
+Deaktiviert
+Telefonie-Unterstützung
+Überwachung verteilter Verknüpfungen (Client)
+Manuell
+Verknüpfungen für NTFS-Dateien in Netzwerken
+Unterstützung in der Systemsteuerung unter Lösungen
+für Probleme
+Deaktiviert
+Fehlerberichte an Microsoft
+Windows CardSpace
+Deaktiviert
+Erstellt und verwaltet digitale Identitäten
+Windows Biometriedienst
+Deaktiviert
+Zugriff auf biometrische Daten
+Windows-Fehlerberichterstattungsdienst
+Deaktiviert
+Erstellt Fehlerberichte und sendet sie an Microsoft
+Windows-Remoteverwaltung (WS-Verwaltung)
+Manuell
+Unterstützt Fernwartung des Rechners
+WWAN – automatische Konfiguration
+Deaktiviert
+Verwaltet mobile Breitbandkarten
+Zertifikatverteilung
+Deaktiviert
+Kopiert Zertifikate von Smartcards
+
+
+###xxxxxxxxxxxxxxxxxxxxxxx
+
+### Windows kill but slowly
+
+Windows 7: you should turn off these System Services
+Service
+Recommendation
+Description
+Adaptive Brightness
+Disable
+Supports adjustment of display brightness
+Bluetooth Support Service
+Disable
+Detection and assignment of Bluetooth devices
+Diagnostic policy service
+Manual
+Problem detection and troubleshooting
+DNS Client
+Manual
+Assignment of Domain names to IP addresses
+Detection of interactive services
+Disable
+User notification of user entries
+Fax
+Disable
+Sending and receiving faxes
+Function Discovery Resource Publication
+Manual
+Publishes computer resources in the network
+Protected Memory
+Manual
+Provides protected memory, for example for passwords
+Intelligent Background Transfer Service
+Manual
+Transmits data in the background
+IP auxiliary service
+Disable
+Network protocol IPv6 over IPv4
+Configuration for remote desktop
+Disable
+Configuration of remote computers
+Cryptographic services
+Manual
+Confirms signatures of Windows files
+Ktmrm for Distributed Transaction Coordinator
+Disable
+Supports the kernel transaction Manager
+Microsoft iSCSI Initiator service
+Disable
+Manages SCSI sessions via Internet
+Multimedia class scheduler
+Manual
+Priority classification of multimedia tasks
+NAP-Agent
+Disable
+Enabled Network Access Protection
+Parental Controls
+Disable
+Child protection functions
+Peer Name Resolution Protocol
+Disable
+Enables name resolution over the Internet
+Peer Network Group Assignment
+Disable
+Activates communication between computers
+Peer Network Identity Manager
+Disable
+Identity services for the PNRP protocol
+PnP-X-IP-Busenumerator
+Disable
+Manages virtual network bus searching for devices in the network
+PNRP machine name publication service
+Disable
+Publishes computer names on the network
+Remote registry
+Disable
+Access of other PCs to the local Windows Registry
+Smart card removal policy
+Disable
+Locks the Desktop after unplugging a smart card
+Server
+Manual
+File and printer sharing in the network
+Shell hardware detection
+Manual
+Autoplay Function
+Smart card
+Disable
+Manages access to smart cards
+SNMP Trap
+Disable
+Receives messages from SNMP devices
+Tablet PC input service
+Disable
+Pen and hands-free input on Tablet PCs
+TCP / IP-NetBIOS auxiliary service
+Manual
+NetBIOS Name resolution in the network
+Telephony
+Disable
+Telephony Support
+Monitoring of distributed links (Client)
+Manual
+Shortcuts for NTFS files in networks
+Support in the control panel under solutions
+for problems
+Disable
+Bug reports to Microsoft
+Windows CardSpace
+Disable
+Creates and manages digital identities
+Windows Biometric Service
+Disable
+Access to biometric data
+Windows Error Reporting Service
+Disable
+Creates bug reports and sends them to Microsoft
+Windows remote management (WS-management)
+Manual
+Supports remote maintenance of the computer
+WWAN-automatic configuration
+Disable
+Manages mobile broadband cards
+Certificate distribution
+Disable
+Copies certificates from Smartcards
+xxxxxxxxxxxxxxxxxxxxxxx
+
+xxx
+xxxxxxxxxxxxxxxxxxxxxxx
+
+###Windows убивает, но медленно
+
+Windows 7: Вы должны отключить эти системные службы
+Обслуживание
+Рекомендация
+Описание
+Адаптивная Яркость
+Отключено
+Поддержка регулировки яркости дисплея
+Служба Поддержки Bluetooth
+Отключено
+Обнаружение и сопоставление устройств Bluetooth
+Служба диагностической политики
+Вручную
+Обнаружение и устранение неполадок
+DNS-клиент
+Вручную
+Сопоставление доменных имен с IP-адресами
+Обнаружение интерактивных служб
+Отключено
+Уведомление пользователя о пользовательском вводе
+Факс
+Отключено
+Отправка и получение факсов
+Поиск Функций-Публикация Ресурсов
+Вручную
+Публикует компьютерные ресурсы в сети
+Защищенное Хранилище
+Вручную
+Обеспечивает защищенное хранилище, например, для паролей
+Интеллектуальная Фоновая Служба Передачи
+Вручную
+Передает данные в фоновом режиме
+Вспомогательная служба IP
+Отключено
+Сетевой протокол IPv6 через IPv4
+Конфигурация удаленных рабочих столов
+Отключено
+Конфигурация удаленного компьютера
+Криптографические услуги
+Вручную
+Подтверждает подписи файлов Windows
+KtmRm для координатора распределенных транзакций
+Отключено
+Поддержка диспетчера транзакций ядра
+Служба инициатора Microsoft iSCSI
+Отключено
+Управление сеансами SCSI через интернет
+Планировщик мультимедийных классов
+Вручную
+Классификация приоритетов мультимедийных задач
+NAP-агент
+Отключено
+Включить Network Access Protection
+Parental Controls
+Отключено
+Родительский контроль
+Peer Name Resolution Протокол
+Отключено
+Включает разрешение имен через интернет
+Сопоставление Групп Одноранговой Сети
+Отключено
+Включает связь между компьютерами
+Peer Сети Identity Manager
+Отключено
+Службы удостоверений для протокола PNRP
+PnP-X-IP-преобразователь груди
+Отключено
+Управление виртуальной сетевой шиной, которая ищет устройства в сети
+PNRP-служба публикации имен компьютеров
+Отключено
+Публикует имена компьютеров в сети
+Удаленная регистрация
+Отключено
+Доступ других компьютеров к локальному реестру Windows
+Политика удаления смарт-карты
+Отключено
+Блокирует рабочий стол после отключения смарт-карты
+Сервер
+Вручную
+Общий доступ к файлам и принтерам в сети
+Определение оборудования оболочки
+Вручную
+Функция Автозапуска
+Смарт-карта
+Отключено
+Управляет доступом к смарт-картам
+SNMP-ловушка
+Отключено
+Получает сообщения с устройств SNMP
+Служба ввода Tablet PC
+Отключено
+Ввод пера и от руки На Планшетных ПК
+Вспомогательная служба TCP/IP NetBIOS
+Вручную
+Разрешение имен NetBIOS в сети
+Телефония
+Отключено
+Поддержка Телефонии
+Мониторинг распределенных связей (клиент)
+Вручную
+Ярлыки для файлов NTFS в сетях
+Поддержка панели управления в разделе Решения
+для проблем
+Отключено
+Отчеты об ошибках в Microsoft
+Windows CardSpace
+Отключено
+Создает и управляет цифровыми идентификаторами
+Служба Биометрии Windows
+Отключено
+Доступ к биометрическим данным
+Служба Отчетов Об Ошибках Windows
+Отключено
+Создает отчеты об ошибках и отправляет их в корпорацию Майкрософт
+Удаленное управление Windows (управление WS)
+Вручную
+Поддержка удаленного обслуживания компьютера
+WWAN – автоматическая настройка
+Отключено
+Управление мобильными широкополосными картами
+Распределение сертификатов
+Отключено
+Копирует сертификаты со смарт-карт
